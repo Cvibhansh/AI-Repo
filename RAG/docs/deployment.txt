@@ -1,0 +1,6 @@
+To restart Order Service:
+
+1. Login to server
+2. Run systemctl stop orderservice
+3. Run systemctl start orderservice
+4. Verify logs

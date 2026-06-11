@@ -1,0 +1,7 @@
+Network Troubleshooting Guide
+
+If applications cannot connect:
+- Verify DNS resolution.
+- Test network connectivity.
+- Check firewall rules.
+- Validate load balancer configuration.

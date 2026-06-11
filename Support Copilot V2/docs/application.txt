@@ -1,0 +1,6 @@
+HTTP 500 errors commonly occur due to:
+
+1. Application deployment failures
+2. Missing configuration
+3. Null pointer exceptions
+4. Service dependency failures

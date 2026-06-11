@@ -1,0 +1,6 @@
+Deployment failures may occur because:
+
+1. Missing environment variables
+2. Incomplete deployment
+3. Version mismatch
+4. Startup script errors

@@ -1,0 +1,7 @@
+Database Troubleshooting Guide
+
+If JDBC timeout errors occur:
+- Verify MySQL service is running.
+- Confirm JDBC URL is correct.
+- Test connectivity between application and database server.
+- Validate credentials and firewall rules.

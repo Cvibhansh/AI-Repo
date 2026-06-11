@@ -1,0 +1,5 @@
+After yesterday's deployment, users cannot log in to the application.
+
+The web page displays HTTP 500 Internal Server Error.
+Application logs show JDBC connection timeout errors while connecting to MYSQL01.
+No code changes were made to the database server.

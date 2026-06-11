@@ -1,0 +1,8 @@
+Incident ID: INC1001
+
+Title: Users cannot log in after deployment.
+
+Description:
+After yesterday's production deployment, users receive HTTP 500 errors while logging in.
+Application logs show repeated JDBC connection timeout messages while connecting to MYSQL01.
+Business users report that the application is unavailable.

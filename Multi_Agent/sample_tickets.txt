@@ -1,0 +1,4 @@
+After the latest deployment, users cannot log in.
+
+The application displays HTTP 500 errors.
+Application logs show JDBC connection timeout messages.

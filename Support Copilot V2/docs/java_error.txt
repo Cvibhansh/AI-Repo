@@ -1,0 +1,13 @@
+NullPointerException:
+Usually occurs when an object reference is null.
+Common causes:
+- Missing initialization
+- Unexpected null database response
+- Configuration not loaded
+
+ConnectionTimeout:
+Common causes:
+- Database unavailable
+- Firewall issues
+- Network latency
+- Incorrect JDBC URL

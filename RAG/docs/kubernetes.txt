@@ -1,0 +1,7 @@
+Kubernetes Troubleshooting Guide
+
+If pods are in CrashLoopBackOff:
+- Check pod logs.
+- Check recent deployments.
+- Verify ConfigMaps and Secrets.
+- Check resource limits.

@@ -1,0 +1,6 @@
+Database issues often include:
+
+1. Connection timeout
+2. Authentication failures
+3. JDBC configuration errors
+4. Database service unavailable

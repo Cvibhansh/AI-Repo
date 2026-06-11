@@ -1,0 +1,7 @@
+Security Incident Guide
+
+If SSL certificate errors occur:
+- Verify certificate expiration date.
+- Renew the certificate if expired.
+- Deploy the new certificate to the server.
+- Restart affected services if required.

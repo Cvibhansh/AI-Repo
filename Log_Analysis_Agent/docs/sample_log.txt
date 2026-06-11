@@ -1,0 +1,19 @@
+2026-06-10 14:22:18 ERROR OrderService
+
+java.lang.NullPointerException:
+Cannot invoke "User.getName()" because "user" is null
+
+at com.company.order.OrderService.process(OrderService.java:55)
+
+Caused by:
+java.sql.SQLTimeoutException:
+Connection timeout while connecting to MYSQL01
+
+
+Application crashes after login.
+
+Users receive HTTP 500 errors.
+
+Database connection timeout observed.
+
+Issue started after deployment.

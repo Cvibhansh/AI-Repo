@@ -1,0 +1,20 @@
+[
+    {
+        "id": "INC1001",
+        "status": "Open",
+        "owner": "Database Team",
+        "priority": "High"
+    },
+    {
+        "id": "INC1002",
+        "status": "Resolved",
+        "owner": "Infrastructure Team",
+        "priority": "Medium"
+    },
+    {
+        "id": "INC1003",
+        "status": "In Progress",
+        "owner": "Application Team",
+        "priority": "Critical"
+    }
+]

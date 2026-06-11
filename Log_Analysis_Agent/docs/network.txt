@@ -1,0 +1,4 @@
+Connection refused errors often indicate:
+- Service is not running
+- Wrong hostname or port
+- Firewall blocking traffic

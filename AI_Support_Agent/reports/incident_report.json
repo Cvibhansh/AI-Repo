@@ -1,0 +1,7 @@
+{
+    "category": "Database",
+    "ticket_status": "",
+    "priority": "",
+    "root_cause": "JDBC connection timeout messages while connecting to MYSQL01",
+    "recommended_action": "Verify MySQL service is running. Confirm JDBC URL is correct. Test connectivity between application and database server. Validate credentials and firewall rules."
+}

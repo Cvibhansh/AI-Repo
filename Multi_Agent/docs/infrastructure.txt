@@ -1,0 +1,7 @@
+Infrastructure Guide
+
+If a server becomes unreachable:
+- Check server power state.
+- Verify network connectivity.
+- Review VM or Kubernetes node health.
+- Check monitoring alerts.

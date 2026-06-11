@@ -1,0 +1,22 @@
+ticket,expected_category
+HTTP 500 errors after deployment,Application
+JDBC timeout while connecting to MYSQL01,Database
+Server APP01 is not reachable,Infrastructure
+SSL certificate expired,Security
+Need dark mode in the dashboard,Feature Request
+Connection refused to database,Database
+Kubernetes pod crash loop,Infrastructure
+Cross-site scripting vulnerability detected,Security
+Users receive HTTP 503,Application
+Add CSV export button,Feature Request
+ticket,expected_category
+"HTTP 500 after deployment","Application"
+"JDBC timeout while connecting to MYSQL01","Database"
+"Server APP01 unreachable","Infrastructure"
+"SSL certificate expired","Security"
+"Need export to PDF feature","Feature Request"
+"Connection refused to MySQL","Database"
+"Kubernetes pod crash loop","Infrastructure"
+"Cross-site scripting vulnerability detected","Security"
+"NullPointerException during login","Application"
+"Add dark mode option","Feature Request"

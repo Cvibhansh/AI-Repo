@@ -1,0 +1,6 @@
+P1 Incident Process:
+
+1. Notify incident manager
+2. Open bridge call
+3. Create ticket
+4. Update stakeholders every 30 minutes

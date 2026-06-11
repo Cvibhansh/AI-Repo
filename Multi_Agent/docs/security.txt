@@ -1,0 +1,6 @@
+Security Guide
+
+If SSL certificate errors occur:
+- Verify expiration date.
+- Renew the certificate.
+- Deploy the new certificate.
