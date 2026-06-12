@@ -1,0 +1,27 @@
+=== JDBC Troubleshooting ===
+Verify that the MySQL server is running.
+Check that the JDBC URL is configured correctly.
+Test connectivity between the application server and database.
+Validate database user credentials.
+
+=== SSL Certificate Troubleshooting ===
+Verify that the SSL certificate has not expired.
+Check the certificate chain.
+Synchronize system time.
+Restart the web server after certificate replacement.
+
+=== Login Failure Troubleshooting ===
+Verify that the authentication service is available.
+Check whether the user account is locked.
+Review recent deployment changes.
+Inspect application logs for authentication errors.
+
+=== Disk Space Troubleshooting ===
+Check available disk space.
+Remove unnecessary log files.
+Expand storage if required.
+
+=== Java Memory Troubleshooting ===
+Inspect JVM memory utilization.
+Look for OutOfMemoryError messages.
+Analyze heap dumps if available.
