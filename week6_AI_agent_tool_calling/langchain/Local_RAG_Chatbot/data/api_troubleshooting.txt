@@ -1,0 +1,8 @@
+REST API Troubleshooting
+
+1. Verify endpoint URL.
+2. Check API authentication.
+3. Validate request payload.
+4. Confirm server availability.
+5. Review HTTP status codes.
+6. Enable debug logging.

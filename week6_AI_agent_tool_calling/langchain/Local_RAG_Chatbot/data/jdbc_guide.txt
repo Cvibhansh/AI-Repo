@@ -1,0 +1,8 @@
+JDBC Connection Troubleshooting
+
+1. Verify the JDBC URL.
+2. Check username and password.
+3. Ensure MySQL service is running.
+4. Verify firewall rules.
+5. Test connectivity using mysql client.
+6. Review application logs for SQL exceptions.

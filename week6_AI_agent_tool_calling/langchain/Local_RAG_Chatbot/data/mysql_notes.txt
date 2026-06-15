@@ -1,0 +1,7 @@
+MySQL Support Notes
+
+- Check if mysqld service is active.
+- Verify port 3306 is open.
+- Validate database credentials.
+- Confirm user privileges.
+- Review MySQL error logs.
